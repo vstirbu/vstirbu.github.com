@@ -12,3 +12,7 @@ github_username:  vstirbu
 
 # Build settings
 markdown: kramdown
+
+collections:
+  - publications
+  - projects
