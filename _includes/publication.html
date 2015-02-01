@@ -1,0 +1,9 @@
+<div>
+  <h4><a href="{{ publication.href }}">{{ publication.title }}</a></h4>
+  <p>
+    {% for author in publication.authors %}
+    {{ author.name }}{% if forloop.rindex > 2 %}, {% elsif forloop.rindex == 2 %} and {% endif %}
+    {% endfor %}
+  </p>
+  <p>{{ publication.description }}</p>
+</div>
