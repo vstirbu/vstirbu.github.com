@@ -112,3 +112,5 @@ var server = app.listen(8080, function () {
   console.log('server listening on', server.address().port);
 });
 {% endhighlight %}
+
+The software is available on [github](https://github.com/vstirbu/regio-camera).
