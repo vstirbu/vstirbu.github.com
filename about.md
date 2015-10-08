@@ -13,6 +13,6 @@ You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://gi
 
 I'm a Romanian living in Tampere, Finland.
 
-I'm software architect at [Nokia Technologies](http://company.nokia.com/en/our-businesses#nokia-technologies) where I'm working with web technologies developing front-end and back-end solutions.
+I'm principal engineer at [Nokia Technologies](http://company.nokia.com/en/our-businesses#nokia-technologies) where I'm working with web technologies developing front-end and back-end solutions.
 
 The opinions expressed here are my own.

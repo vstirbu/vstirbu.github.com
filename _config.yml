@@ -16,3 +16,4 @@ markdown: kramdown
 collections:
   - publications
   - projects
+  - talks
