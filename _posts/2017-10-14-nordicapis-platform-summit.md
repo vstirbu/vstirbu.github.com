@@ -26,4 +26,4 @@ Although there have been plenty of interesting talks, I'll focus on the few that
 
 As for myself, I've [talked](https://www.slideshare.net/VladStirbu/developing-medical-grade-iot-systems-with-microservices) about the regulations and standards that make development of medical services special. I have also described how we handled these challenges. Drop me a line if you want to hear more.
 
-Needless to say that there have been many more interesting talks. The good part is that all are available on the conference YouTube [channel](https://www.youtube.com/playlist?list=PLd2MPdlXKO10RVLkvlnNz_mmqUY9QN4dj).
+Needless to say that all talks are available on the conference YouTube [channel](https://www.youtube.com/playlist?list=PLd2MPdlXKO10RVLkvlnNz_mmqUY9QN4dj).
