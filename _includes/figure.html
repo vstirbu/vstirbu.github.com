@@ -1,0 +1,7 @@
+<figure>
+  <figcaption>{{ include.caption }}</figcaption>
+  {% assign srcs = include.src | split: '|' %}
+  {% for src in srcs %}
+    <img class="{{ include.class }}" src="{{ src }}">
+  {% endfor %}
+</figure>
