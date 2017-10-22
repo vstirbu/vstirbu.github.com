@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When JSDoc and TypeScript gives you IntelliSense powers"
+title: "When JSDoc gives you IntelliSense powers"
 tags: intellisense typescript jsdoc
 ---
 
