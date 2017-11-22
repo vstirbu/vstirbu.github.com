@@ -14,7 +14,8 @@ github_username:  vstirbu
 markdown: kramdown
 
 collections:
-  - patents
-  - projects
-  - publications
-  - talks
+  patents:
+  projects:
+  publications:
+  talks:
+    output: true

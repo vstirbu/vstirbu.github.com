@@ -6,5 +6,5 @@ priority: 50
 ---
 
 {% for talk in site.talks reversed %}
-{% include talk.html %}
+{% include talk-summary.html %}
 {% endfor %}
