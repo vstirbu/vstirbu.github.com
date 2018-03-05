@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fresh impressions from Nordic APIs Platform Summit"
-tags: conference talk nokia nordiapis
+tags: conference talk nokia apis
 ---
 
 Seems like yesterday, when I heard from [Miro Nieminen](https://twitter.com/mironieminen) about a new [conference](https://nordicapis.com/events/2016-platform-summit/) about APIs in Stockholm. Following the tip, I attended the conference and haven't been disappointed. One year later, I've decided to try the waters of speaking at a tech conference. So, I've submitted the talk proposal on the last day. Soon after, I got the notification that my proposal has been accepted.

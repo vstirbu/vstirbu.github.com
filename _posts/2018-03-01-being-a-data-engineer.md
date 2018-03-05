@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Being a data engineer in 2018"
-tags: big-data gcp cloud
+tags: big-data gcp cloud machine-learning
 ---
 
 Thanks to the disturbances in the arctic vortex, yesterday was one of the [coldest day of the winter](http://www.helsinkitimes.fi/finland/finland-news/domestic/15355-finns-told-to-brace-for-cold-weather.html) so far... What better day than to head to Helsinki to [Predict What’s Next](https://cloudplatformonline.com/2018-OnBoard-Helsinki.html) with Google.

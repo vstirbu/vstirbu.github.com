@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When JSDoc gives you IntelliSense powers"
-tags: intellisense typescript jsdoc
+tags: intellisense typescript jsdoc javascript
 ---
 
 During the past week I stumbled upon a blog post by [Ryan Paul](http://seg.phault.net/blog/2017/10/typescript-without-transpiling/) on getting the advantages of [TypeScript](https://www.typescriptlang.org) without transpiling. The _magic_ is made possible by TypeScript 2.3, which introduced support for [standard JavaScript](https://github.com/Microsoft/TypeScript/wiki/Type-Checking-JavaScript-Files). The type information contained in [JSDoc-like](https://github.com/Microsoft/TypeScript/wiki/JSDoc-support-in-JavaScript) annotations is analysed and used in a similar fashion as TypeScript's own type system.
